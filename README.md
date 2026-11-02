@@ -8,9 +8,15 @@ A public, static GitHub Pages library of critical scientific-paper evaluations.
 
 | Paper | Field | Review date | Page |
 | --- | --- | --- | --- |
+| Kodera et al., *Nature* (2010), DOI [10.1038/nature09450](https://doi.org/10.1038/nature09450) | Single-molecule biophysics / high-speed AFM | 2026-11-02 | [Kodera review](https://profdanger.github.io/paper_forensics/papers/kodera-2010-myosin-v-afm/) |
 | Cherf et al., *Nature Biotechnology* (2012), DOI [10.1038/nbt.2147](https://doi.org/10.1038/nbt.2147) | Nanopore biophysics | 2026-11-02 | [Cherf review](https://profdanger.github.io/paper_forensics/papers/cherf-2012/) |
 | Gilpin et al., *Nature Physics* (2017), DOI [10.1038/nphys3981](https://doi.org/10.1038/nphys3981) | Ciliary hydrodynamics | 2026-11-02 | [Gilpin review](https://profdanger.github.io/paper_forensics/papers/gilpin-2017-starfish-larvae/) |
-| Gazzola et al., *Nature Physics* (2014), DOI [10.1038/nphys3078](https://doi.org/10.1038/nphys3078) | Aquatic locomotion / fluid mechanics | 2026-11-02 | [Gazzola review](https://profdanger.github.io/paper_forensics/papers/gazzola-2014-aquatic-locomotion/) |
+| Gazzola et al., *Nature Physics* (2014), DOI [10.1038/nphys3078](https://doi.org/10.1038/nphys3078) | Aquatic locomotion / fluid mechanics | 2026-11-02 | [Gazzola review](https://profdanger.github.io/paper_forensics/papers/kodera-2010-myosin-v-afm/
+  index.html                         # HS-AFM motor-motion forensic dossier
+  assets/
+    motor-walk.svg                   # original molecular stepping diagram
+    evidence-ladder.svg              # original observation/inference diagram
+papers/gazzola-2014-aquatic-locomotion/) |
 
 ## Structure
 
@@ -45,7 +51,7 @@ The original Cherf page was the previous site root. Its bytes are preserved **un
 
 Each assessment separates source observations, model-derived inferences, critique, independent follow-up, and unresolved tests. Disclose missing supplemental data and inability to reproduce computations. References use DOI links where available. Scores are six independent dimensions and are not averaged.
 
-The four SVG illustrations in the Gilpin and Gazzola reviews are **original explanatory illustrations, not reproduced or measured experimental figures**. They should not be cited as evidence. No original journal PDF or publisher figure files are distributed through this repository.
+The six SVG illustrations in the Gilpin, Gazzola and Kodera reviews are **original explanatory illustrations, not reproduced or measured experimental figures**. They should not be cited as evidence. No original journal PDF or publisher figure files are distributed through this repository.
 
 ## Hosting
 
